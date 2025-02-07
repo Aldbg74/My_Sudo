@@ -1,13 +1,14 @@
 <H1>🖥️ My_Sudo 🖥️</H1>
-Sudo is a project of Epitech.
-Project in group with Omar.J
+Sudo is a project of Epitech. <br>
+It's the last one of UNIX of the first semester of the Tek1 <br>
+Project in group with Omar.J <BR>
 
 <H1>🎯 GOALS 🎯</H1>
-Create a Hash algo. <br>
+Re-Create the sudo function<br>
 <br>
 
 > [!IMPORTANT]
-> Project isn't full fonctionnal.
+> Project isn't full fonctionnal. (Makefile needed a function but it's not coding-style freindly)
 
 > [!CAUTION]  
 > ⚠️ Warning to Epitech Students ⚠️ <br>
